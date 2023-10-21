@@ -1,0 +1,172 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: rgb(254, 254, 254);
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+p {
+    text-align: center;
+    font-size: x-small;
+    color: dimgrey;
+}
+
+
+/* NAV BAR */
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.navbar-brand {
+    padding: 0px auto;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* TITLE */
+#title {
+    background-color: #ff4c68;
+}
+.main-heading {
+    padding: 0px;
+}
+/* download button */
+.download-button {
+    margin: 20px 8px;
+    padding-left: 20px;
+    padding-inline: 40px; 
+    
+}
+/* title image */
+.iphone {
+    width: 60%;
+    transform: rotate(20deg);
+}
+
+
+/* FEATURES */
+#features {
+    background-color: white;
+    padding: 7% 15%;
+    
+}
+
+.row {
+    margin: 50px auto auto;
+}
+
+.features-text {
+    font-size: 1.5rem;
+}
+
+.fa-solid {
+    padding-bottom: 30px;
+    color: #ff4c68
+}
+
+.fa-solid:hover {
+    color: rgb(195, 162, 178);
+}
+
+.middle-icon {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+
+/* TESTIMONIALS */
+em {
+    color: white;
+    margin: 10px 20px 0px 0px;
+    margin: 530px 20px 0px 0px;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+}
+
+.testimonials-text {
+    color: white;
+    font-size: 2.5rem;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%;
+    margin-top: 28px;
+}
+
+.carousel-inner {
+    padding: 7% 15%;
+
+}
+
+/* PRESS */
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-image {
+    width: 15%;
+    margin: 20px;
+}
+
+/* PRICING */
+#pricing {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.pricing-column {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.pricing-text {
+    font-weight: ;
+}
+
+    /* CTA */
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 8% 15%;
+}
+.cta-text{
+    color: white;
+    font-family: ;
+    padding: 5%;
+    font-size: 3rem;
+}
+
+/* FOOTER */
+#footer{
+    text-align: center;
+    padding: 3% 15%;
+    background-color: #fff;
+    margin: 2% 6%;
+}
+.footer-icon{
+    padding:2% 1%;
+}
